@@ -1,5 +1,5 @@
 package article
 
 func JoinWithCommas(phrases[]string)string {
-  return nil
+  return ""
 }
